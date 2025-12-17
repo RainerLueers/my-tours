@@ -12,7 +12,9 @@ etwas zu erzählen gibt.
 ### Kleine Schlössertour
 #### 65 km Rundtour in der Umgebung von Demmin
 
-<a href="https://youtu.be/a3AYHvQrBb8" target="_blank" rel="noopener noreferrer" >Kleine Schlössertour</a>
+<a href="https://youtu.be/a3AYHvQrBb8">
+  <img src="Schloss Vanselow.png" target="_blank" rel="noopener noreferrer" alt="Schlössertour">
+</a>
   
 
 Ja, die Vielzahl an Schlössern, Guts- und Herrenhäusern ist in dieser Dichte ist in ganz Europa einmalig. 
