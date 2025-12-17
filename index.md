@@ -11,6 +11,7 @@ etwas zu erzählen gibt.
 
 ### Kleine Schlössertour
 #### 65 km Rundtour in der Umgebung von Demmin
+##### 20 September 2025
 
 <a href="https://youtu.be/a3AYHvQrBb8">
   <img src="Schloss Vanselow.png" target="_blank" rel="noopener noreferrer" alt="Schlössertour">
@@ -43,11 +44,11 @@ Broock wird zu einem nachhaltigen Zentrum für Tagungen, Kultur und Veranstaltun
 wurde vom Biotech-Unternehmer Arndt Rolfs (Rostock) und seiner Frau gekauft und renoviert. 
 Es ist nahe der Tollense gelegen und hat einen einmalig schönen, fast mystischen Park, in dem das 
 kunstinteressierte Ehepaar jährlich open Air Operetten veranstaltet. 
-Wir waren 2023 bei bei Mozarts Treuetest „Cosi fan Tutte“ live dabei :-)
+Wir waren 2023 bei Mozarts Treuetest „Cosi fan Tutte“ live dabei :-)
 
 **Schloss Kartlow**  
 ist eine absolute Perle. Hier ist der Privateigentümer schwer zu ermitteln. 
-Gefunden hab ich „Schloss Cartlow GmbH - Eintragung · Geschäftsführer: Jana Jüstel, Wolfgang Neubert“
+Gefunden hab ich „Schloss Cartlow GmbH - Eintragung · Geschäftsführer: Jana Jüstel, Wolfgang Neubert“  
 Offenbar steht die Anlage zum Verkauf. Also, nix wie ran :-)
 
 So kann man das monatelang fortführen und wäre immer noch nicht am Ende. 
