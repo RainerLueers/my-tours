@@ -14,7 +14,7 @@ etwas zu erzählen gibt.
 ##### 20 September 2025
 
 <a href="https://youtu.be/a3AYHvQrBb8">
-  <img src="Schloss Vanselow.png" target="_blank" rel="noopener noreferrer" alt="Schlössertour">
+  <img src="Schloss Vanselow.png" target="_blank" rel="noopener noreferrer" alt="Schlössertour" style="cursor: pointer;">
 </a>
   
 
