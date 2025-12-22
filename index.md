@@ -20,7 +20,7 @@ ___
 ___
 > <a href="https://rainerlueers.github.io/my-tours/Rhön_2024/">Urlaub in Dermbach - Rhön 2024</a>  
 
-> Urlaub in Dermbach - Rhön und Thüringer Wald 2024  
+> Urlaub in Dermbach - Rhön und Thüringer Wald  
 > 04 - 11 August 2024
 
 ___
