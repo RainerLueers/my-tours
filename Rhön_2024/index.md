@@ -22,6 +22,7 @@ Bewegungszeit | 3h 2min |
 
 [GPX Datei](Rhön_01_Sängerwiese_Bermbach_Point_Alpha.gpx "GPX öffnen")  
 
+![](Tag01_01.jpg)  
 
 ___
 
