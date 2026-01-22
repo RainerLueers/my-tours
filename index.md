@@ -18,6 +18,12 @@ ___
 > 08 Juli 2024
 
 ___
+> <a href="https://rainerlueers.github.io/my-tours/Quedlinburg_2024/">Urlaub in Quedlinburg - Harz 2024</a>  
+
+> Urlaub mit Peter im schönen Quedlinburg  
+> 25 - 30 Mai 2024
+
+___
 > <a href="https://rainerlueers.github.io/my-tours/Rhön_2024/">Urlaub in Dermbach - Rhön 2024</a>  
 
 > Urlaub in Dermbach - Rhön und Thüringer Wald  
