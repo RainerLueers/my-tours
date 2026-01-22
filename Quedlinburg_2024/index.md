@@ -73,7 +73,7 @@ Der Brocken - unerreichbar?! (Blick von Heudeber)
 
 ___
 
-**Tour 04** Harz - Vatterode, Wittra Runde 
+**Tour 04** Harz - Vatterode, Wittra Runde  
 Do., 30. Mai 2024, 9:28
 
 Solo in den Harz
