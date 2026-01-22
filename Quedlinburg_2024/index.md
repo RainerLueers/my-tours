@@ -26,6 +26,7 @@ Stadt Hoym/Anhalt
 Pflichtprogramm :-)
 ![](IMG_20240526_193947.jpg)  
 Herrliche Pizzen
+
 ___
 
 **Tour 02** Harz - Stiege, Güntersberge, Friedrichsbrunn, Quedlinburg  
@@ -53,7 +54,7 @@ ___
 **Tour 03** Harz - Halberstadt, Zilly, Langeln  
 Di., 28. Mai 2024, 11:19
 
-... schöne flache Anfahrt zum Anwärmen und ab Schmalkalden 3 ordentliche Anstiege
+Längere Ausfahrt im Harzer Vorland
 
  |  | 
 ---------|---------|
