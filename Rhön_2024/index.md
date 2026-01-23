@@ -7,7 +7,7 @@ title: Rhön 2024
 # Urlaub in Dermbach  - Rhön und Thüringer Wald 2024
 ## 4 August 2024
 
-**Tour 01** Sängerwiese - Bermbach - Point Alpha  
+**Tour 01** Sängerwiese - Dermbach - Point Alpha  
 So., 4. Aug. 2024, 09:48
 
 Morgen erstmal umritzeln.  
@@ -23,7 +23,7 @@ Bewegungszeit | 3h 2min |
 [GPX Datei](Rhön_01_Sängerwiese_Bermbach_Point_Alpha.gpx "GPX öffnen")  
 
 ![](Tag01_01.jpg)  
-Blick in die Rhön Richtung Bermbach
+Blick in die Rhön Richtung Dermbach
 ![](Tag01_02.jpg) 
 Point Alpha - Grenze von USA bis 1989 kontrolliert![](Tag01_03.jpg)  
 Stärkung vor dem letzten Anstieg 💪
