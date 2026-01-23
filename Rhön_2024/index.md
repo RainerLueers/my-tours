@@ -72,7 +72,7 @@ Stadtkirche St. Georg Schmalkalden
 
 ___
 
-**Tour 04** Oberhof 
+**Tour 04** Oberhof  
 Do., 8. Aug. 2024, 10:24
 
 ...die deutschen Adler fliegen auch im Sommer
@@ -95,7 +95,7 @@ Jugendtraining des DSV
 
 ___
 
-**Tour 05** Rhön 03 - Meiningen Runde
+**Tour 05** Rhön 03 - Meiningen Runde  
 Fr., 9. Aug. 2024, 11:23
 
 Wind ist das Eine, Berge das Andere, beides zusammen das Besondere
@@ -119,7 +119,7 @@ Ortseingang Meiningen
 
 ___
 
-**Tour 06** Rhön 03 - Rund um und rauf auf den Inselberg
+**Tour 06** Rhön 03 - Rund um und rauf auf den Inselberg  
 So., 11. Aug. 2024, 09:07
 
 ...Inselberg 900 m Kopfsteinpflaster bei satten 12% 😱
