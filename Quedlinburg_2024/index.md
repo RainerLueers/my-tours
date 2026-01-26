@@ -23,10 +23,13 @@ Tour 1
 
 ![](IMG_20240526_121226.jpg)  
 Stecklenberg
+
 ![](IMG_20240526_141628.jpg)  
 Stadt Hoym/Anhalt
+
 ![](IMG-20240526-WA0000.jpg)  
 Pflichtprogramm :-)
+
 ![](IMG_20240526_193947.jpg)  
 Herrliche Pizzen
 
@@ -52,6 +55,7 @@ Anschliessend Spaziergang in der Altstadt
 
 ![](IMG_20240527_173854.jpg)  
 Marktplatz Quedlinburg
+
 ![](IMG_20240527_174031.jpg)  
 Rathaus Quedlinburg
 
@@ -75,8 +79,10 @@ Tour 3
 
 ![](vXVXeZ2Tgm88751Njq1QJAuTA_k9fThkldOMNrh3ZOQ-1152x2048.jpg)  
 Dom zu Halberstadt
+
 ![](NcEWZVOnhVoBkPfG2DW6YWlSUG7VaHYUguLC8Ki7Pz8-2048x1152.jpg)  
 Ritterspiele in Zilly
+
 ![](efDMzDWl0lVSw39XLHQQTeiQUoZjoxjl9SihmDIcmpk-2048x1152.jpg)  
 Der Brocken - unerreichbar?! (Blick von Heudeber)
 
@@ -102,6 +108,7 @@ Tour 4
 
 ![](lwdjSquRKeJbt9TPJ8COPoPzwcBnidbkmI2RTKNEooM-2048x1152.jpg)  
 Nach 60 km Regen verdiente Stärkung
+
 ![](kfAL79OZlKGiIvvRoigqaAMiVuH4cIvGEJ2r484e3ik-2048x1152.jpg)  
 Der Schlossherr 😎 hat die Burg verteidigt
 
