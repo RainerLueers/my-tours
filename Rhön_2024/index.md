@@ -24,8 +24,11 @@ Bewegungszeit | 3h 2min |
 
 ![](Tag01_01.jpg)  
 Blick in die Rhön Richtung Dermbach
+
 ![](Tag01_02.jpg) 
-Point Alpha - Grenze von USA bis 1989 kontrolliert![](Tag01_03.jpg)  
+Point Alpha - Grenze von USA bis 1989 kontrolliert
+
+![](Tag01_03.jpg)  
 Stärkung vor dem letzten Anstieg 💪
 
 ___
@@ -45,8 +48,10 @@ Bewegungszeit | 2h 26min |
 
 ![](Tag02_01.jpg)  
 Mein Domizil ⛺
-![](Tag02_02.jpg) 
+
+![](Tag02_02.jpg)  
 Heute mein höchster Punkt
+
 ![](Tag02_03.jpg)  
 ...darf man ja garnicht zeigen 🥴
 
@@ -67,7 +72,8 @@ Bewegungszeit | 4h 25min |
 
 ![](Tag03_01.jpg)  
 Trusetaler Wasserfall
-![](Tag03_02.jpg) 
+
+![](Tag03_02.jpg)  
 Stadtkirche St. Georg Schmalkalden
 
 ___
@@ -87,6 +93,7 @@ Bewegungszeit | 5h 2min |
 
 ![](Tag04_01.jpg)  
 Richtung Rennsteig 
+
 ![](Tag04_02.jpg)  
 Rodelbahn Oberhof 
 
@@ -110,11 +117,14 @@ Bewegungszeit | 3h 40min |
 
 ![](Tag05_01.jpg)  
 Staatstheater Meiningen
+
 ![](Tag05_02.jpg)  
 Altstadt und Fussgängerzone Meiningen
-![](Tag05_03.jpg) 
+
+![](Tag05_03.jpg)  
 Stadtkirche Meiningen
-![](Tag05_04.jpg) 
+
+![](Tag05_04.jpg)  
 Ortseingang Meiningen
 
 ___
@@ -133,9 +143,11 @@ Bewegungszeit | 5h 53min |
 [GPX Datei](Rhön_06_Rund_um_und_rauf_auf_den_Inselberg.gpx "GPX öffnen")  
 
 ![](Tag06_01.jpg)  
-Schloss Altenstein (ein Juwel) 
+Schloss Altenstein (ein Juwel)
+ 
 ![](Tag06_02.jpg)  
 Funkturm auf dem Inselberg (920m) 
+
 ![](Tag06_03.jpg)  
 Kirchweih-Fest (Kirmes)
 
