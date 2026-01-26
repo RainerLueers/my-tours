@@ -52,7 +52,7 @@ Heute mein höchster Punkt
 
 ___
 
-**Tour 03** Rhön 03 - Schmalkalden - Friedrichroda  
+**Tour 03** Rhön - Schmalkalden - Friedrichroda  
 Di., 6. Aug. 2024, 10:59
 
 ... schöne flache Anfahrt zum Anwärmen und ab Schmalkalden 3 ordentliche Anstiege
@@ -95,7 +95,7 @@ Jugendtraining des DSV
 
 ___
 
-**Tour 05** Rhön 03 - Meiningen Runde  
+**Tour 05** Rhön - Meiningen Runde  
 Fr., 9. Aug. 2024, 11:23
 
 Wind ist das Eine, Berge das Andere, beides zusammen das Besondere
@@ -119,7 +119,7 @@ Ortseingang Meiningen
 
 ___
 
-**Tour 06** Rhön 03 - Rund um und rauf auf den Inselberg  
+**Tour 06** Rhön - Rund um und rauf auf den Inselberg  
 So., 11. Aug. 2024, 09:07
 
 ...Inselberg 900 m Kopfsteinpflaster bei satten 12% 😱

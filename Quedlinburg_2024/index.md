@@ -7,7 +7,7 @@ title: Quedlinburg 2024
 # Urlaub in Quedlinburg  - Harz 2024
 ## 25 Mai 2024
 
-**Tour 01** Harz - Alter Wasserturm 
+**Tour 01** Harz - Alter Wasserturm  
 So., 26. Mai 2024, 11:00
 
  |  | 
@@ -15,6 +15,9 @@ So., 26. Mai 2024, 11:00
 Distanz | 60,99 km | 
 Höhenzunahme | 408 m | 
 Bewegungszeit | 2h 41min |
+
+![](HarzTour1.png)  
+Tour 1
 
 [GPX Datei](Harz_Alter_Wasserturm.gpx "GPX öffnen")  
 
@@ -39,6 +42,9 @@ Distanz | 71,80 km |
 Höhenzunahme | 929 m | 
 Bewegungszeit | 3h 01min |
 
+![](HarzTour2.png)  
+Tour 2
+
 [GPX Datei](Harz_Stiege_Güntersberge_Friedrichsbrunn_Quedlinburg.gpx "GPX öffnen")  
 
 Anschliessend Spaziergang in der Altstadt
@@ -62,6 +68,9 @@ Distanz | 76,70 km |
 Höhenzunahme | 539 m | 
 Bewegungszeit | 3h 38min |
 
+![](HarzTour3.png)  
+Tour 3
+
 [GPX Datei](Harz_Halberstadt_Zilly_Langeln.gpx "GPX öffnen")  
 
 ![](vXVXeZ2Tgm88751Njq1QJAuTA_k9fThkldOMNrh3ZOQ-1152x2048.jpg)  
@@ -83,6 +92,9 @@ Solo in den Harz
 Distanz | 106,68 km | 
 Höhenzunahme | 1.255 m | 
 Bewegungszeit | 4h 18min |
+
+![](HarzTour4.png)  
+Tour 4
 
 [GPX Datei](Harz_Vatterode_Wittra_Runde.gpx "GPX öffnen") 
 

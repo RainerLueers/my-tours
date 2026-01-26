@@ -10,18 +10,18 @@ Eine Auswahl meiner Touren mit Rennrad oder Gravel Bike, zu denen es Bildmateria
 
 > 107 km Radrennen auf der Insel Rügen  
 > 22 Oktober 2023
+> 
+___
+> <a href="https://rainerlueers.github.io/my-tours/Quedlinburg_2024/">Urlaub in Quedlinburg - Harz 2024</a>  
+
+> Urlaub mit Peter im schönen Quedlinburg  
+> 25 - 30 Mai 2024
 
 ___
 > <a href="https://rainerlueers.github.io/my-tours/Etappenfahrt_Sophienhof_Lohne_Juli_2024/">Etappenfahrt von Sophienhof nach Lohne 2024</a>  
 
 > Von der Mecklenburger Seenplatte  bis nach Südoldenburg - 395 km  
 > 08 Juli 2024
-
-___
-> <a href="https://rainerlueers.github.io/my-tours/Quedlinburg_2024/">Urlaub in Quedlinburg - Harz 2024</a>  
-
-> Urlaub mit Peter im schönen Quedlinburg  
-> 25 - 30 Mai 2024
 
 ___
 > <a href="https://rainerlueers.github.io/my-tours/Rhön_2024/">Urlaub in Dermbach - Rhön 2024</a>  
