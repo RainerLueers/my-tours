@@ -67,7 +67,7 @@ Wiener Quartier
 
 ___
 
-**Etappe 02** Schwerin - Soltau
+**Etappe 02** Schwerin - Soltau  
 Do., 19. September 2024, 08:36
 
  |  | 
@@ -107,7 +107,7 @@ Tagesziel erreicht
 
 ___
 
-**Etappe 03** Soltau - Lohne
+**Etappe 03** Soltau - Lohne  
 Fr., 20. September 2024, 09:22
 
 ...ab Twistringen von Peter und Hannes
