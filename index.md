@@ -36,7 +36,7 @@ ___
 > 20 September 2025
 
 ___
-> <a href="https://rainerlueers.github.io/my-tours/Etappenfahrt nach Quedlinburg_2026/">Etappenfahrt von Sophienhof nach Quedlinburg 2024 - geplant</a>  
+> <a href="https://rainerlueers.github.io/my-tours/Etappenfahrt nach Quedlinburg_2026/">Etappenfahrt von Sophienhof nach Quedlinburg 2026 - In Planung</a>  
 
 > Von der Mecklenburger Seenplatte  bis in den Harz - 330 km  
 > 22 Mai 2026
