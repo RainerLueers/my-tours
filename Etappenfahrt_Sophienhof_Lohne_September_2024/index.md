@@ -10,8 +10,6 @@ title: Etappenfahrt von Sophienhof nach Lohne
 **Etappe 01** Sophienhof - Schwerin  
 Mi., 18. September 2024, 09:17
 
-...Arschrakete mit NO - Düsentrieb zum Glück ohne Pager 🌬️
-
  |  | 
 ---------|---------|
 Distanz | 147,31 km | 
@@ -30,16 +28,16 @@ Daten aus Strava
 ___
 
 ![](Etappe01_01.jpg)  
-Naja, da fahr ich eigentlich drüber her 😉
+Schöner Aussichtspunkt mit Karte
 
 ![](Etappe01_02.jpg)  
-Tourismuskarte vor dem Aussichtsturm
+Vom Aussichtsturm zurück auf's Rad
 
 ![](Etappe01_03.jpg)  
 Krakower See 
 
 ![](Etappe01_04.jpg)  
-Schweriner Schloss 🏰
+Schweriner Schloss
 
 ![](Etappe01_05.jpg)  
 Schweriner Dom St. Marien
@@ -54,10 +52,10 @@ Rathaus
 Schöner Pudel 😁
 
 ![](Etappe01_09.jpg)  
-A bisserl Wien 😉
+A bisserl Wien
 
 ![](Etappe01_10.jpg)  
-Schloßstraße mit Blick zum Schloss 🏰
+Schloßstraße mit Blick zum Schloss
 
 ![](Etappe01_11.jpg)  
 Dom St. Marien
