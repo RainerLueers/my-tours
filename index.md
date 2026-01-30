@@ -4,7 +4,12 @@
 title: Meine Touren
 ---
 
-Eine Auswahl meiner Touren mit Rennrad oder Gravel Bike, zu denen es Bildmaterial und etwas zu erzählen gibt.
+Gesammelte Daten auf Strava seit Juni 2023
+
+<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/125736362/latest-rides/8f91a33ffabc5d99b916662943c410280e2b3c68'></iframe>
+___
+
+Hier eine Auswahl meiner Touren mit Rennrad oder Gravel Bike, zu denen es Bildmaterial und etwas zu erzählen gibt.
 
 > <a href="https://rainerlueers.github.io/my-tours/Rügen_Challenge_2023/">Rügen Challenge 2023</a>  
 
