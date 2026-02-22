@@ -38,3 +38,36 @@ Etappe 2
 [GPX Datei](Havelberg nach Quedlinburg.gpx "GPX öffnen")  
 
 ___
+
+**Tourenplanung - Startpunkt Quedlinburg**
+
+> **Brockengipfel - Hinfahrt**
+> 
+> <a href="https://www.komoot.com/de-de/tour/2793177455/">Quedlinburg zum Brockengipfel - komoot</a>
+
+>Dauer 02:36
+
+>Distanz 52,6 km
+
+>Tempo 20,3 km/h
+
+>Auffahrt 1.230 m
+
+>Abfahrt 220 m
+
+___
+> **Brockengipfel - Rückfahrt**
+> 
+> <a href="https://www.komoot.com/de-de/tour/2793177455/">Brockengipfel nach Quedlinburg - komoot</a>
+
+>Dauer 01:48
+
+>Distanz 52,6 km
+
+>Tempo 29,3 km/h
+
+>Auffahrt 220 m
+
+>Abfahrt 1.230 m
+
+___
