@@ -58,7 +58,7 @@ ___
 ___
 > **Brockengipfel - Rückfahrt**
 > 
-> <a href="https://www.komoot.com/de-de/tour/2793177455/">Brockengipfel nach Quedlinburg - komoot</a>
+> <a href="https://www.komoot.com/de-de/tour/2794601845/">Brockengipfel nach Quedlinburg - komoot</a>
 
 >Dauer 01:48
 
