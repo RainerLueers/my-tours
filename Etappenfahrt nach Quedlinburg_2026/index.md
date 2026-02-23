@@ -71,3 +71,33 @@ ___
 >Abfahrt 1.230 m
 
 ___
+> **Quedlinburg nach Abfahrt von Friedrichsbrunn**
+> 
+> <a href="https://www.komoot.com/tour/2795270350/">Quedlinburg nach Abfahrt von Friedrichsbrunn - komoot</a>
+
+>Dauer 03:24
+
+>Distanz 70 km
+
+>Tempo 20,5 km/h
+
+>Auffahrt 900 m
+
+>Abfahrt 900 m
+
+___
+> **Quedlinburg nach Halberstadt**
+> 
+> <a href="https://www.komoot.com/tour/2795288518/">Quedlinburg nach Halberstadt - komoot</a>
+
+>Dauer 02:42
+
+>Distanz 62,9 km
+
+>Tempo 23,4 km/h
+
+>Auffahrt 310 m
+
+>Abfahrt 310 m
+
+___
