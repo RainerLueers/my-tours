@@ -44,6 +44,7 @@ ___
 > **Brockengipfel - Hinfahrt**
 > 
 > <a href="https://www.komoot.com/de-de/tour/2793177455/">Quedlinburg zum Brockengipfel - komoot</a>
+> ![](Quedlinburg zum Brockengipfel.png) 
 
 >Dauer 02:36
 
@@ -59,6 +60,7 @@ ___
 > **Brockengipfel - Rückfahrt**
 > 
 > <a href="https://www.komoot.com/de-de/tour/2794601845/">Brockengipfel nach Quedlinburg - komoot</a>
+> ![](Brockengipfel nach Quedlinburg.png) 
 
 >Dauer 01:48
 
@@ -74,6 +76,7 @@ ___
 > **Quedlinburg nach Abfahrt von Friedrichsbrunn**
 > 
 > <a href="https://www.komoot.com/tour/2795270350/">Quedlinburg nach Abfahrt von Friedrichsbrunn - komoot</a>
+> ![](Quedlinburg nach Abfahrt von Friedrichsbrunn.png) 
 
 >Dauer 03:24
 
@@ -89,6 +92,7 @@ ___
 > **Quedlinburg nach Halberstadt**
 > 
 > <a href="https://www.komoot.com/tour/2795288518/">Quedlinburg nach Halberstadt - komoot</a>
+> ![](Quedlinburg nach Halberstadt.png) 
 
 >Dauer 02:42
 
@@ -104,6 +108,7 @@ ___
 > **Quedlinburg, Halberstadt-Spiegelsberge, Ziegenberg bei Heimburg**
 > 
 > <a href="https://www.komoot.com/de-de/tour/2796178217/">Quedlinburg, Halberstadt-Spiegelsberge, Ziegenberg bei Heimburg - komoot</a>
+> ![](Quedlinburg, Halberstadt-Spiegelsberge, Ziegenberg bei Heimburg.png) 
 
 >Dauer 04:20
 
@@ -119,6 +124,7 @@ ___
 > **Quedlinburg nach Moorberg-Eichen**
 > 
 > <a href="https://www.komoot.com/tour/2796191113/">Quedlinburg nach Moorberg-Eichen - komoot</a>
+> ![](Quedlinburg nach Moorberg-Eichen.png) 
 
 >Dauer 02:55
 
