@@ -101,3 +101,33 @@ ___
 >Abfahrt 310 m
 
 ___
+> **Quedlinburg, Halberstadt-Spiegelsberge, Ziegenberg bei Heimburg**
+> 
+> <a href="https://www.komoot.com/de-de/tour/2796178217/">Quedlinburg, Halberstadt-Spiegelsberge, Ziegenberg bei Heimburg - komoot</a>
+
+>Dauer 04:20
+
+>Distanz 95,8 km
+
+>Tempo 22,1 km/h
+
+>Auffahrt 800 m
+
+>Abfahrt 800 m
+
+___
+> **Quedlinburg nach Moorberg-Eichen**
+> 
+> <a href="https://www.komoot.com/tour/2796191113/">Quedlinburg nach Moorberg-Eichen - komoot</a>
+
+>Dauer 02:55
+
+>Distanz 64,5 km
+
+>Tempo 22,1 km/h
+
+>Auffahrt 430 m
+
+>Abfahrt 430 m
+
+___
