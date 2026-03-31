@@ -137,3 +137,19 @@ ___
 >Abfahrt 430 m
 
 ___
+> **Thale Hauptbahnhof nach Malerische kurvenreiche Abfahrt im Bodetal**
+> 
+> <a href="https://www.komoot.com/de-de/tour/2854697693/">Thale Hauptbahnhof nach Malerische kurvenreiche Abfahrt im Bodetal - komoot</a>
+> ![](Thale Hauptbahnhof nach Malerische kurvenreiche Abfahrt im Bodetal.png) 
+
+>Dauer 04:49
+
+>Distanz 100 km
+
+>Tempo 20,8 km/h
+
+>Auffahrt 1370 m
+
+>Abfahrt 1370 m
+
+___
