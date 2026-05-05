@@ -7,11 +7,17 @@ title: Etappenfahrt
 # Etappenfahrt von Sophienhof nach Quedlinburg - 2026
 ## 22 Mai 2026
 
-**Etappe 01** Sophienhof - Neustrelitz (Bahnfahrt) 
-Neustrelitz - Havelberg (Radfahrt) 
+**Etappe 01** 
+
 Fr., 22. Mai 2026, 08:00
 
- |  | 
+Sophienhof - Neustrelitz (Bahnfahrt)
+
+Neustrelitz - Havelberg (Radfahrt) 
+
+
+
+ Radfahrt|  | 
 ---------|---------|
 Distanz | 113 km | 
 Höhenzunahme | 340 m | 
@@ -25,11 +31,16 @@ Etappe 1
 
 ___
 
-**Etappe 02** Havelberg - Magdeburg (Radfahrt) 
-Magdeburg - Quedlinburg (Bahnfahrt) 
+**Etappe 02** 
+
 Sa., 23. Mai 2026, 8:00
 
- |  | 
+Havelberg - Magdeburg (Radfahrt) 
+
+Magdeburg - Quedlinburg (Bahnfahrt) 
+
+
+ Radfahrt|  | 
 ---------|---------|
 Distanz | 102 km | 
 Höhenzunahme | 180 m | 
