@@ -4,38 +4,42 @@
 title: Etappenfahrt
 ---
 
-# Etappenfahrt von Sophienhof nach Quedlinburg endlang des Elberadwegs D10 - 2026
+# Etappenfahrt von Sophienhof nach Quedlinburg - 2026
 ## 22 Mai 2026
 
-**Etappe 01** Sophienhof - Havelberg  
+**Etappe 01** Sophienhof - Neustrelitz (Bahnfahrt) 
+Neustrelitz - Havelberg (Radfahrt) 
 Fr., 22. Mai 2026, 08:00
 
  |  | 
 ---------|---------|
-Distanz | 179 km | 
-Höhenzunahme | 680 m | 
-Bewegungszeit (24,5 km/h) | 7h 18min |
+Distanz | 113 km | 
+Höhenzunahme | 340 m | 
+Bewegungszeit (25,2 km/h) | 4h 29min |
 
-![](Etappe01.png)  
+![](Neustrelitz-Havelberg.png)  
+![](Neustrelitz-Havelberg_Höhe.png)  
 Etappe 1
 
-[GPX Datei](Sophienhof nach Havelberg.gpx "GPX öffnen")  
+[GPX Datei](Neustrelitz nach Havelberg.gpx "GPX öffnen")  
 
 ___
 
-**Etappe 02** Havelberg - Quedlinburg  
+**Etappe 02** Havelberg - Magdeburg (Radfahrt) 
+Magdeburg - Quedlinburg (Bahnfahrt) 
 Sa., 23. Mai 2026, 8:00
 
  |  | 
 ---------|---------|
-Distanz | 160 km | 
-Höhenzunahme | 520 m | 
-Bewegungszeit (24,5 km/h)| 7h 01min |
+Distanz | 102 km | 
+Höhenzunahme | 180 m | 
+Bewegungszeit (22,7 km/h)| 4h 30min |
 
-![](Etappe02.png)  
+![](Havelberg-Magdeburg.png)  
+![](Havelberg-Magdeburg_Höhe.png)  
 Etappe 2
 
-[GPX Datei](Havelberg nach Quedlinburg.gpx "GPX öffnen")  
+[GPX Datei](Havelberg nach Magdeburg.gpx "GPX öffnen")  
 
 ___
 
