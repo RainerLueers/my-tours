@@ -53,3 +53,8 @@ ___
 > 22 Mai 2026
 
 ___
+> <a href="https://rainerlueers.github.io/my-tours/Tour de France 2026/">Tour de France 2026</a>  
+
+> GPX Dateien aller 21 Etappen
+
+___
